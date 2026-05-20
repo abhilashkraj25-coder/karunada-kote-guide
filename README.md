@@ -1,5 +1,6 @@
 # ಕರ್ನಾಡ ಕೋಟೆ ಗೈಡ್ — Karunada Kote Guide
 ### Karnataka Pride: AI-Powered Heritage Fort Guide
+live url of website - https://appetize.io/app/android/com.karunadakote?device=pixel7&osVersion=13.0&toolbar=true
 
 ---
 
